@@ -10,14 +10,6 @@ You can command your CloudBank to pown a coin that you send it, send you a coin,
 
 ECHO RAIDA
 
-TRANSFER SERVICE
-
-TRANSFER BETWEEN SKYWALLETS (Transfers between skywallets can be verified with the RAIDA "View_receipt" service
-
-RECEIVE FROM SKYWALLET
-
-SEND TO SKYWALLET
-
 SHOW COINS
 
 DEPOSIT ONE STACK
@@ -25,5 +17,12 @@ DEPOSIT ONE STACK
 WITHDRAW ONE STACK
 
 GET RECEIPT
+
+RECEIVE FROM SKYWALLET
+
+SEND TO SKYWALLET
+
+TRANSFER BETWEEN SKYWALLETS (Transfers between skywallets can be verified with the RAIDA "View_receipt" service
+
 
 [Cloud Bank API](https://github.com/CloudCoinConsortium/CloudBank-V2/blob/master/README.md#echo-raida)
